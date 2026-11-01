@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+
+.env
+.env.*
+!.env.example
+.k8s-secret.env
+
+*.pem
+*.key
+
+npm-debug.log*
+.DS_Store
